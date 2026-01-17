@@ -1,2 +1,2 @@
-# estudos html css 
-estudos do html css do curso em video
+# estudos de programaçao para se torna o desenvolvedor fullstack
+
